@@ -190,14 +190,7 @@
             </resource>
         </resources>
 		
-		<distributionManagement>
-  
-            <snapshotRepository>
-               <id>nexus-snapshots</id>
-               <url>http://10.128.0.18:8081/repository/maven-snapshots/</url>
-        </snapshotRepository>
-    </distributionManagement>
-     
+		    
 
     </build>
 
